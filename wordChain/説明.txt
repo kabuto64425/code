@@ -1,0 +1,17 @@
+2014年ワールドカップの出場国を、アルファベットのつづりでしりとりをします。
+(大文字と小文字は同じものとして扱う。)
+どの国名も一度しか使うことが出来ないとき、最も長く続けられる順番を求め、
+使用した国名の数を求めます。
+
+※実行すると、上記の問題の答えが出ます。
+
+参考：2014年ワールドカップの出場国のアルファベット
+Brazil, Croatia, Mexico, Cameroon
+Spain, Netherlands, Chile, Australia
+Colombia, Greece,Cote d'Ivoire, Japan
+Uruguay, Costa Rica, England, Italy
+Switzerland, Ecuador, France, Honduras
+Argentina, Bosnia and Herzegobina, Iran
+Nigeria, Germeny, Portugal, Ghana
+USA,Belgium, Algeria, Russia
+Korea Republic
